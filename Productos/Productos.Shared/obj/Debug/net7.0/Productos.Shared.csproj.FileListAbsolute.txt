@@ -1,0 +1,11 @@
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\bin\Debug\net7.0\Productos.Shared.deps.json
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\bin\Debug\net7.0\Productos.Shared.dll
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\bin\Debug\net7.0\Productos.Shared.pdb
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\obj\Debug\net7.0\Productos.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\obj\Debug\net7.0\Productos.Shared.AssemblyInfoInputs.cache
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\obj\Debug\net7.0\Productos.Shared.AssemblyInfo.cs
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\obj\Debug\net7.0\Productos.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\obj\Debug\net7.0\Productos.Shared.dll
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\obj\Debug\net7.0\refint\Productos.Shared.dll
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\obj\Debug\net7.0\Productos.Shared.pdb
+C:\Users\Abdi\Documents\GitHub\PruebaTecnicaRepo\Productos\Productos.Shared\obj\Debug\net7.0\ref\Productos.Shared.dll
